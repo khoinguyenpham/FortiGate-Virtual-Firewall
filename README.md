@@ -9,3 +9,9 @@ In the computing language, a firewall is a security software or hardware that ca
 Therefore, a firewall, also known as a network firewall, is capable of preventing unauthorized access to/from private networks.
 
 A network firewall is based on security rules to accept, reject, or drop specific traffic. The firewall aims to allow or deny the connection or request, depending on implemented rules.
+
+## References
+
+geekflare.com/firewall-introduction/
+
+http://docs.fortinet.com/document/fortigate/6.2.4/cookbook/856100/dashboard
